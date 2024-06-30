@@ -1,0 +1,2 @@
+,Seqname,GCCoW: GC content of whole sequence,GCCo1: GC content of 1st position of codons,GCCo2: GC content of 2nd position of codons,GCCo3: GC content of 3rd position of codons,GCC1V: GCCo1 variance frame score,GCC2V: GCCo2 variance frame score,GCC3V: GCCo3 variance frame score
+0,ENST00000607720.1,0.62069,0.596349,0.602434,0.663286,0.004394,0.004572,0.004687

@@ -1,0 +1,757 @@
+,x,y,v,Subtypes,colors
+0,0,0,TraAT: Transition between A and T,Transcript related,#CCB441
+1,0,1,SLFBC: Sum of path lengths starting from oxygens_3 transition between B and C,Topological indice,#B4B044
+2,0,2,LFI: Lipoaffinity index_3110,Solubility lipoaffinity,#D1963A
+3,0,3,PCDAA: Parallel correlation PseDN composition of AA,Nucleotide related,#ED7D31
+4,0,4,SHA: Strong H-Bond acceptors_3011,Hydrogen bond related,#FFC000
+5,0,5,SCDAA: Series correlation PseDN composition of AA,Nucleotide related,#ED7D31
+6,0,6,SHA: Strong H-Bond acceptors_3110,Hydrogen bond related,#FFC000
+7,0,7,TraEK: Entropy density K on transcript,Transcript related,#CCB441
+8,0,8,SLF: Sum of path lengths starting from oxygens_3110,Topological indice,#B4B044
+9,0,9,LFICB: Lipoaffinity index_3 composition of B,Solubility lipoaffinity,#D1963A
+10,0,10,ComRA: Composition of A,Transcript related,#CCB441
+11,0,11,ORFEK: Entropy density K on ORF,Open reading frame,#BDC6CF
+12,0,12,SHACB: Strong H-Bond acceptors_3 composition of B,Hydrogen bond related,#FFC000
+13,0,13,TPSB0: Topological polar surface area_3 distribution of 0.00B,Topological indice,#B4B044
+14,0,14,HPCC0: Gas-hexadecane PC_3 distriCution of 0.00C,Partition coefficient,#C6CEBA
+15,0,15,PSNB0: Primary or secondary nitrogens distribution of 0.00B,Topological indice,#B4B044
+16,0,16,SLFC0: Sum of path lengths starting from oxygens_3 distriCution of 0.00C,Topological indice,#B4B044
+17,0,17,DPRT0: Distribution of 0.00T,Transcript related,#CCB441
+18,0,18,MLFA0: Linear free energy distribution of 0.00A,Hydrogen bond related,#FFC000
+19,0,19,SHAA0: Strong H-Bond acceptors_3 distribution of 0.00A,Hydrogen bond related,#FFC000
+20,0,20,CNHB0: NH- count distribution of 0.00B,Molecular fingerprint,#9AB6D1
+21,0,21,MLFB0: Linear free energy distribution of 0.00B,Hydrogen bond related,#FFC000
+22,0,22,LFIA0: Lipoaffinity index distribution of 0.00A,Solubility lipoaffinity,#D1963A
+23,0,23,SLFA0: Sum of path lengths starting from oxygens_3 distribution of 0.00A,Topological indice,#B4B044
+24,0,24,SHDB0: Strong H-Bond donors distribution of 0.00B,Hydrogen bond related,#FFC000
+25,0,25,TPSC0: Topological polar surface area_3 distriCution of 0.00C,Topological indice,#B4B044
+26,0,26,PHBC0: Potential Hydrogen Bonds_3 distriCution of 0.00C,Hydrogen bond related,#FFC000
+27,0,27,DPRG0: Distribution of 0.00G,Transcript related,#CCB441
+28,1,0,PHB: Potential Hydrogen Bonds_3000,Hydrogen bond related,#FFC000
+29,1,1,PHB: Potential Hydrogen Bonds_300,Hydrogen bond related,#FFC000
+30,1,2,TraEI: Entropy density I on transcript,Transcript related,#CCB441
+31,1,3,LFI: Lipoaffinity index_3011,Solubility lipoaffinity,#D1963A
+32,1,4,TraEN: Entropy density N on transcript,Transcript related,#CCB441
+33,1,5,LFI: Lipoaffinity index011,Solubility lipoaffinity,#D1963A
+34,1,6,LFI: Lipoaffinity index110,Solubility lipoaffinity,#D1963A
+35,1,7,SLF: Sum of path lengths starting from oxygens_3011,Topological indice,#B4B044
+36,1,8,SHA: Strong H-Bond acceptors_3101,Hydrogen bond related,#FFC000
+37,1,9,SLFCB: Sum of path lengths starting from oxygens_3 composition of B,Topological indice,#B4B044
+38,1,10,ORFEN: Entropy density N on ORF,Open reading frame,#BDC6CF
+39,1,11,LFICB: Lipoaffinity index composition of B,Solubility lipoaffinity,#D1963A
+40,1,12,SLF: Sum of path lengths starting from oxygens_3101,Topological indice,#B4B044
+41,1,13,SHA: Strong H-Bond acceptors_3200,Hydrogen bond related,#FFC000
+42,1,14,SHA: Strong H-Bond acceptors_320,Hydrogen bond related,#FFC000
+43,1,15,ORFEP: Entropy density P on ORF,Open reading frame,#BDC6CF
+44,1,16,TraEP: Entropy density P on transcript,Transcript related,#CCB441
+45,1,17,PHB: Potential Hydrogen Bonds_3011,Hydrogen bond related,#FFC000
+46,1,18,LFIB0: Lipoaffinity index_3 distribution of 0.00B,Solubility lipoaffinity,#D1963A
+47,1,19,LFIB0: Lipoaffinity index distribution of 0.00B,Solubility lipoaffinity,#D1963A
+48,1,20,PHBA0: Potential Hydrogen Bonds_3 distribution of 0.00A,Hydrogen bond related,#FFC000
+49,1,21,SHAB0: Strong H-Bond acceptors_3 distribution of 0.00B,Hydrogen bond related,#FFC000
+50,1,22,TPSA0: Topological polar surface area_3 distribution of 0.00A,Topological indice,#B4B044
+51,1,23,CNHA0: NH- count distribution of 0.00A,Molecular fingerprint,#9AB6D1
+52,1,24,HPCB0: Gas-hexadecane PC distribution of 0.00B,Partition coefficient,#C6CEBA
+53,1,25,SHAC0: Strong H-Bond acceptors_3 distriCution of 0.00C,Hydrogen bond related,#FFC000
+54,1,26,PSNA0: Primary or secondary nitrogens distribution of 0.00A,Topological indice,#B4B044
+55,1,27,LFIC0: Lipoaffinity index_3 distriCution of 0.00C,Solubility lipoaffinity,#D1963A
+56,2,0,MLF: Linear free energy000,Hydrogen bond related,#FFC000
+57,2,1,MLF: Linear free energy00,Hydrogen bond related,#FFC000
+58,2,2,PCDAG: Parallel correlation PseDN composition of AG,Nucleotide related,#ED7D31
+59,2,3,SCDAG: Series correlation PseDN composition of AG,Nucleotide related,#ED7D31
+60,2,4,LFI: Lipoaffinity index_3101,Solubility lipoaffinity,#D1963A
+61,2,5,HPC: Gas-hexadecane PC_3002,Partition coefficient,#C6CEBA
+62,2,6,PHB: Potential Hydrogen Bonds_3002,Hydrogen bond related,#FFC000
+63,2,7,PHB: Potential Hydrogen Bonds_3200,Hydrogen bond related,#FFC000
+64,2,8,HPC: Gas-hexadecane PC000,Partition coefficient,#C6CEBA
+65,2,9,LFI: Lipoaffinity index101,Solubility lipoaffinity,#D1963A
+66,2,10,SHA: Strong H-Bond acceptors_3010,Hydrogen bond related,#FFC000
+67,2,11,SHA: Strong H-Bond acceptors_301,Hydrogen bond related,#FFC000
+68,2,12,SHA: Strong H-Bond acceptors_310,Hydrogen bond related,#FFC000
+69,2,13,LFI: Lipoaffinity index000,Solubility lipoaffinity,#D1963A
+70,2,14,SHA: Strong H-Bond acceptors_3002,Hydrogen bond related,#FFC000
+71,2,15,SHAAC: Strong H-Bond acceptors_3 transition between A and C,Hydrogen bond related,#FFC000
+72,2,16,HPCCB: Gas-hexadecane PC_3 composition of B,Partition coefficient,#C6CEBA
+73,2,17,HPCCB: Gas-hexadecane PC composition of B,Partition coefficient,#C6CEBA
+74,2,18,PHB: Potential Hydrogen Bonds_3110,Hydrogen bond related,#FFC000
+75,2,19,HPC: Gas-hexadecane PC110,Partition coefficient,#C6CEBA
+76,2,20,SHA: Strong H-Bond acceptors_3220,Hydrogen bond related,#FFC000
+77,2,21,PCDTT: Parallel correlation PseDN composition of TT,Nucleotide related,#ED7D31
+78,2,22,SCDTT: Series correlation PseDN composition of TT,Nucleotide related,#ED7D31
+79,2,23,DPRA0: Distribution of 0.00A,Transcript related,#CCB441
+80,2,24,SLFB0: Sum of path lengths starting from oxygens_3 distribution of 0.00B,Topological indice,#B4B044
+81,2,25,HPCB0: Gas-hexadecane PC_3 distribution of 0.00B,Partition coefficient,#C6CEBA
+82,2,26,PHBB0: Potential Hydrogen Bonds_3 distribution of 0.00B,Hydrogen bond related,#FFC000
+83,2,27,DPRC0: Distribution of 0.00C,Transcript related,#CCB441
+84,3,0,TraEY: Entropy density Y on transcript,Transcript related,#CCB441
+85,3,1,SCDGA: Series correlation PseDN composition of GA,Nucleotide related,#ED7D31
+86,3,2,PCDGA: Parallel correlation PseDN composition of GA,Nucleotide related,#ED7D31
+87,3,3,SLF: Sum of path lengths starting from oxygens_3210,Topological indice,#B4B044
+88,3,4,PHB: Potential Hydrogen Bonds_30,Hydrogen bond related,#FFC000
+89,3,5,MLF: Linear free energy100,Hydrogen bond related,#FFC000
+90,3,6,MLF: Linear free energy001,Hydrogen bond related,#FFC000
+91,3,7,HPC: Gas-hexadecane PC00,Partition coefficient,#C6CEBA
+92,3,8,SHA: Strong H-Bond acceptors_3100,Hydrogen bond related,#FFC000
+93,3,9,HPCCA: Gas-hexadecane PC composition of A,Partition coefficient,#C6CEBA
+94,3,10,SHA: Strong H-Bond acceptors_3001,Hydrogen bond related,#FFC000
+95,3,11,SHAAB: Strong H-Bond acceptors_3 transition between A and B,Hydrogen bond related,#FFC000
+96,3,12,LFI: Lipoaffinity index10,Solubility lipoaffinity,#D1963A
+97,3,13,LFI: Lipoaffinity index_3002,Solubility lipoaffinity,#D1963A
+98,3,14,LFI: Lipoaffinity index_3200,Solubility lipoaffinity,#D1963A
+99,3,15,SHA: Strong H-Bond acceptors_3020,Hydrogen bond related,#FFC000
+100,3,16,SHA: Strong H-Bond acceptors_302,Hydrogen bond related,#FFC000
+101,3,17,PHBCB: Potential Hydrogen Bonds_3 composition of B,Hydrogen bond related,#FFC000
+102,3,18,SHACC: Strong H-Bond acceptors_3 composition of C,Hydrogen bond related,#FFC000
+103,3,19,ComRC: Composition of C,Transcript related,#CCB441
+104,3,20,HPC: Gas-hexadecane PC011,Partition coefficient,#C6CEBA
+105,3,21,SHA: Strong H-Bond acceptors_3022,Hydrogen bond related,#FFC000
+106,3,22,HPC: Gas-hexadecane PC_3011,Partition coefficient,#C6CEBA
+107,3,23,HPC: Gas-hexadecane PC_3110,Partition coefficient,#C6CEBA
+108,3,24,TraGC: Transition between G and C,Transcript related,#CCB441
+109,3,25,MLF: Linear free energy111,Hydrogen bond related,#FFC000
+110,3,26,PCDTC: Parallel correlation PseDN composition of TC,Nucleotide related,#ED7D31
+111,3,27,SCDTC: Series correlation PseDN composition of TC,Nucleotide related,#ED7D31
+112,4,0,PCDGG: Parallel correlation PseDN composition of GG,Nucleotide related,#ED7D31
+113,4,1,HPC: Gas-hexadecane PC_3220,Partition coefficient,#C6CEBA
+114,4,2,SLF: Sum of path lengths starting from oxygens_3021,Topological indice,#B4B044
+115,4,3,HPC: Gas-hexadecane PC_302,Partition coefficient,#C6CEBA
+116,4,4,MLFCA: Linear free energy composition of A,Hydrogen bond related,#FFC000
+117,4,5,MLF: Linear free energy0,Hydrogen bond related,#FFC000
+118,4,6,PHBCA: Potential Hydrogen Bonds_3 composition of A,Hydrogen bond related,#FFC000
+119,4,7,SLF: Sum of path lengths starting from oxygens_3120,Topological indice,#B4B044
+120,4,8,TraEM: Entropy density M on transcript,Transcript related,#CCB441
+121,4,9,HPC: Gas-hexadecane PC0,Partition coefficient,#C6CEBA
+122,4,10,PHB: Potential Hydrogen Bonds_3020,Hydrogen bond related,#FFC000
+123,4,11,LFI: Lipoaffinity index01,Solubility lipoaffinity,#D1963A
+124,4,12,LFIAB: Lipoaffinity index transition between A and B,Solubility lipoaffinity,#D1963A
+125,4,13,ASMH1: Dinucleotide auto covariance of lag1 on SMH,Nucleotide related,#ED7D31
+126,4,14,LFI: Lipoaffinity index0,Solubility lipoaffinity,#D1963A
+127,4,15,LFICA: Lipoaffinity index composition of A,Solubility lipoaffinity,#D1963A
+128,4,16,LFI: Lipoaffinity index00,Solubility lipoaffinity,#D1963A
+129,4,17,HPC: Gas-hexadecane PC10,Partition coefficient,#C6CEBA
+130,4,18,SLF: Sum of path lengths starting from oxygens_3002,Topological indice,#B4B044
+131,4,19,PHB: Potential Hydrogen Bonds_3101,Hydrogen bond related,#FFC000
+132,4,20,HPC: Gas-hexadecane PC101,Partition coefficient,#C6CEBA
+133,4,21,SHA: Strong H-Bond acceptors_3202,Hydrogen bond related,#FFC000
+134,4,22,HPC: Gas-hexadecane PC_3101,Partition coefficient,#C6CEBA
+135,4,23,PCDCT: Parallel correlation PseDN composition of CT,Nucleotide related,#ED7D31
+136,4,24,MLF: Linear free energy11,Hydrogen bond related,#FFC000
+137,4,25,SLF: Sum of path lengths starting from oxygens_3000,Topological indice,#B4B044
+138,4,26,PHBBC: Potential Hydrogen Bonds_3 transition between B and C,Hydrogen bond related,#FFC000
+139,4,27,PHB: Potential Hydrogen Bonds_3120,Hydrogen bond related,#FFC000
+140,5,0,HPC: Gas-hexadecane PC_3022,Partition coefficient,#C6CEBA
+141,5,1,TPS: Topological polar surface area_3011,Topological indice,#B4B044
+142,5,2,SCDGG: Series correlation PseDN composition of GG,Nucleotide related,#ED7D31
+143,5,3,HPC: Gas-hexadecane PC_3202,Partition coefficient,#C6CEBA
+144,5,4,HPCAC: Gas-hexadecane PC_3 transition between A and C,Partition coefficient,#C6CEBA
+145,5,5,HPC: Gas-hexadecane PC_3020,Partition coefficient,#C6CEBA
+146,5,6,HPC: Gas-hexadecane PC_3200,Partition coefficient,#C6CEBA
+147,5,7,LFI: Lipoaffinity index_310,Solubility lipoaffinity,#D1963A
+148,5,8,SLF: Sum of path lengths starting from oxygens_3012,Topological indice,#B4B044
+149,5,9,MLF: Linear free energy010,Hydrogen bond related,#FFC000
+150,5,10,LFIAB: Lipoaffinity index_3 transition between A and B,Solubility lipoaffinity,#D1963A
+151,5,11,SLF: Sum of path lengths starting from oxygens_3201,Topological indice,#B4B044
+152,5,12,ORFEW: Entropy density W on ORF,Open reading frame,#BDC6CF
+153,5,13,L1BDS: Series correlation PseDN composition of lamda1-BDS,Nucleotide related,#ED7D31
+154,5,14,ABDG1: Dinucleotide auto covariance of lag1 on BDG,Nucleotide related,#ED7D31
+155,5,15,LFI: Lipoaffinity index_302,Solubility lipoaffinity,#D1963A
+156,5,16,LFI: Lipoaffinity index_3020,Solubility lipoaffinity,#D1963A
+157,5,17,SLF: Sum of path lengths starting from oxygens_3200,Topological indice,#B4B044
+158,5,18,SLF: Sum of path lengths starting from oxygens_3020,Topological indice,#B4B044
+159,5,19,PHB: Potential Hydrogen Bonds_3021,Hydrogen bond related,#FFC000
+160,5,20,PHB: Potential Hydrogen Bonds_3102,Hydrogen bond related,#FFC000
+161,5,21,GCCo3: GC content of 3rd position of codons,Guanine-cytosine related,#9AA983
+162,5,22,GCCoW: GC content of whole sequence,Guanine-cytosine related,#9AA983
+163,5,23,MLFCB: Linear free energy composition of B,Hydrogen bond related,#FFC000
+164,5,24,SCDCT: Series correlation PseDN composition of CT,Nucleotide related,#ED7D31
+165,5,25,SLF: Sum of path lengths starting from oxygens_300,Topological indice,#B4B044
+166,5,26,PHB: Potential Hydrogen Bonds_3012,Hydrogen bond related,#FFC000
+167,5,27,GCC1V: GCCo1 variance frame score,Guanine-cytosine related,#9AA983
+168,6,0,SCFFS: Stop codon frequency frame score,Codon related,#679DC4
+169,6,1,TPS: Topological polar surface area_3110,Topological indice,#B4B044
+170,6,2,PSN: Primary or secondary nitrogens110,Topological indice,#B4B044
+171,6,3,TPS: Topological polar surface area_3101,Topological indice,#B4B044
+172,6,4,HPC: Gas-hexadecane PC_320,Partition coefficient,#C6CEBA
+173,6,5,SLF: Sum of path lengths starting from oxygens_3102,Topological indice,#B4B044
+174,6,6,ORFEI: Entropy density I on ORF,Open reading frame,#BDC6CF
+175,6,7,PHB: Potential Hydrogen Bonds_3010,Hydrogen bond related,#FFC000
+176,6,8,PHB: Potential Hydrogen Bonds_3001,Hydrogen bond related,#FFC000
+177,6,9,LFI: Lipoaffinity index_301,Solubility lipoaffinity,#D1963A
+178,6,10,PHB: Potential Hydrogen Bonds_3100,Hydrogen bond related,#FFC000
+179,6,11,nMFE,Secondary structure,#76A6D3
+180,6,12,TraEC: Entropy density C on transcript,Transcript related,#CCB441
+181,6,13,LFI: Lipoaffinity index_3000,Solubility lipoaffinity,#D1963A
+182,6,14,ASMS1: Dinucleotide auto covariance of lag1 on SMS,Nucleotide related,#ED7D31
+183,6,15,AHCT1: Dinucleotide auto covariance of lag1 on HCT,Nucleotide related,#ED7D31
+184,6,16,LFIAC: Lipoaffinity index_3 transition between A and C,Solubility lipoaffinity,#D1963A
+185,6,17,HPC: Gas-hexadecane PC01,Partition coefficient,#C6CEBA
+186,6,18,HPCAB: Gas-hexadecane PC transition between A and B,Partition coefficient,#C6CEBA
+187,6,19,MLF: Linear free energy101,Hydrogen bond related,#FFC000
+188,6,20,MLF: Linear free energy011,Hydrogen bond related,#FFC000
+189,6,21,HPC: Gas-hexadecane PC_301,Partition coefficient,#C6CEBA
+190,6,22,SLF: Sum of path lengths starting from oxygens_30,Topological indice,#B4B044
+191,6,23,MLF: Linear free energy1,Hydrogen bond related,#FFC000
+192,6,24,SLFCA: Sum of path lengths starting from oxygens_3 composition of A,Topological indice,#B4B044
+193,6,25,TraEA: Entropy density A on transcript,Transcript related,#CCB441
+194,6,26,GCC2V: GCCo2 variance frame score,Guanine-cytosine related,#9AA983
+195,6,27,GCC3V: GCCo3 variance frame score,Guanine-cytosine related,#9AA983
+196,7,0,SCCFS: Stop codon count frame score,Codon related,#679DC4
+197,7,1,PSN: Primary or secondary nitrogens011,Topological indice,#B4B044
+198,7,2,SLF: Sum of path lengths starting from oxygens_3022,Topological indice,#B4B044
+199,7,3,C3UTR: Coverage of 3 untranslated region,Transcript related,#CCB441
+200,7,4,PSN: Primary or secondary nitrogens101,Topological indice,#B4B044
+201,7,5,ORFEY: Entropy density Y on ORF,Open reading frame,#BDC6CF
+202,7,6,LFI: Lipoaffinity index_3010,Solubility lipoaffinity,#D1963A
+203,7,7,SHD: Strong H-Bond donors000,Hydrogen bond related,#FFC000
+204,7,8,LFI: Lipoaffinity index_3100,Solubility lipoaffinity,#D1963A
+205,7,9,LFI: Lipoaffinity index_3001,Solubility lipoaffinity,#D1963A
+206,7,10,ASTB1: Dinucleotide auto covariance of lag1 on STB,Nucleotide related,#ED7D31
+207,7,11,SHA: Strong H-Bond acceptors_3000,Hydrogen bond related,#FFC000
+208,7,12,TraEV: Entropy density V on transcript,Transcript related,#CCB441
+209,7,13,MRe: Molar refractivity1,Polarizability refractivity,#A0CF6D
+210,7,14,LFI: Lipoaffinity index_300,Solubility lipoaffinity,#D1963A
+211,7,15,ABLS1: Dinucleotide auto covariance of lag1 on BLS,Nucleotide related,#ED7D31
+212,7,16,ADTB1: Dinucleotide auto covariance of lag1 on DTB,Nucleotide related,#ED7D31
+213,7,17,LFI: Lipoaffinity index_320,Solubility lipoaffinity,#D1963A
+214,7,18,PHB: Potential Hydrogen Bonds_3201,Hydrogen bond related,#FFC000
+215,7,19,GCCo2: GC content of 2nd position of codons,Guanine-cytosine related,#9AA983
+216,7,20,PHB: Potential Hydrogen Bonds_3210,Hydrogen bond related,#FFC000
+217,7,21,HPCAB: Gas-hexadecane PC_3 transition between A and B,Partition coefficient,#C6CEBA
+218,7,22,MLF: Linear free energy110,Hydrogen bond related,#FFC000
+219,7,23,LFI: Lipoaffinity index_3202,Solubility lipoaffinity,#D1963A
+220,7,24,FickS: Fickett score,Codon related,#679DC4
+221,7,25,TPS: Topological polar surface area_3220,Topological indice,#B4B044
+222,7,26,LFI: Lipoaffinity index_3022,Solubility lipoaffinity,#D1963A
+223,7,27,PCDCC: Parallel correlation PseDN composition of CC,Nucleotide related,#ED7D31
+224,8,0,LORFL: Longest ORF length,Open reading frame,#BDC6CF
+225,8,1,SLF: Sum of path lengths starting from oxygens_3220,Topological indice,#B4B044
+226,8,2,TraEF: Entropy density F on transcript,Transcript related,#CCB441
+227,8,3,SLFCC: Sum of path lengths starting from oxygens_3 composition of C,Topological indice,#B4B044
+228,8,4,TPS: Topological polar surface area_310,Topological indice,#B4B044
+229,8,5,TPS: Topological polar surface area_3010,Topological indice,#B4B044
+230,8,6,TPS: Topological polar surface area_3100,Topological indice,#B4B044
+231,8,7,SHD: Strong H-Bond donors00,Hydrogen bond related,#FFC000
+232,8,8,SHD: Strong H-Bond donors0,Hydrogen bond related,#FFC000
+233,8,9,SHAC1: Strong H-Bond acceptors_3 distriCution of 0.25C,Hydrogen bond related,#FFC000
+234,8,10,CNH: NH- count111,Molecular fingerprint,#9AB6D1
+235,8,11,CNH: NH- count11,Molecular fingerprint,#9AB6D1
+236,8,12,TPSBC: Topological polar surface area_3 transition between B and C,Topological indice,#B4B044
+237,8,13,ProAH: Pseudo protein average hydropathy,Pseudo protein related,#B3CE93
+238,8,14,LFICA: Lipoaffinity index_3 composition of A,Solubility lipoaffinity,#D1963A
+239,8,15,MRe: Molar refractivity11,Polarizability refractivity,#A0CF6D
+240,8,16,MRe: Molar refractivity111,Polarizability refractivity,#A0CF6D
+241,8,17,ABDH1: Dinucleotide auto covariance of lag1 on BDH,Nucleotide related,#ED7D31
+242,8,18,ORFEA: Entropy density A on ORF,Open reading frame,#BDC6CF
+243,8,19,TraEW: Entropy density W on transcript,Transcript related,#CCB441
+244,8,20,GCCo1: GC content of 1st position of codons,Guanine-cytosine related,#9AA983
+245,8,21,HPC: Gas-hexadecane PC_310,Partition coefficient,#C6CEBA
+246,8,22,SLF: Sum of path lengths starting from oxygens_3100,Topological indice,#B4B044
+247,8,23,SLF: Sum of path lengths starting from oxygens_3001,Topological indice,#B4B044
+248,8,24,ORFCo: ORF coverage,Open reading frame,#BDC6CF
+249,8,25,TPS: Topological polar surface area_3202,Topological indice,#B4B044
+250,8,26,TPS: Topological polar surface area_3022,Topological indice,#B4B044
+251,8,27,LFI: Lipoaffinity index_3220,Solubility lipoaffinity,#D1963A
+252,9,0,EiSNR: Electron-ion interaction pseudopotential signal/noise ratio,EIIP based spectrum,#99C94D
+253,9,1,EiPS4: Electron-ion interaction pseudopotential spectrum 1,EIIP based spectrum,#99C94D
+254,9,2,TPSCB: Topological polar surface area_3 composition of B,Topological indice,#B4B044
+255,9,3,ComRT: Composition of T,Transcript related,#CCB441
+256,9,4,SLF: Sum of path lengths starting from oxygens_3202,Topological indice,#B4B044
+257,9,5,TPS: Topological polar surface area_301,Topological indice,#B4B044
+258,9,6,TPS: Topological polar surface area_3001,Topological indice,#B4B044
+259,9,7,SHDCA: Strong H-Bond donors composition of A,Hydrogen bond related,#FFC000
+260,9,8,DPRC1: Distribution of 0.25C,Transcript related,#CCB441
+261,9,9,PHBB2: Potential Hydrogen Bonds_3 distribution of 0.50B,Hydrogen bond related,#FFC000
+262,9,10,SHA: Strong H-Bond acceptors_300,Hydrogen bond related,#FFC000
+263,9,11,SHACA: Strong H-Bond acceptors_3 composition of A,Hydrogen bond related,#FFC000
+264,9,12,TraTG: Transition between T and G,Transcript related,#CCB441
+265,9,13,ORFEC: Entropy density C on ORF,Open reading frame,#BDC6CF
+266,9,14,SLFAC: Sum of path lengths starting from oxygens_3 transition between A and C,Topological indice,#B4B044
+267,9,15,MReCB: Molar refractivity composition of B,Polarizability refractivity,#A0CF6D
+268,9,16,PCDTG: Parallel correlation PseDN composition of TG,Nucleotide related,#ED7D31
+269,9,17,TraTC: Transition between T and C,Transcript related,#CCB441
+270,9,18,ORFEG: Entropy density G on ORF,Open reading frame,#BDC6CF
+271,9,19,LFICC: Lipoaffinity index_3 composition of C,Solubility lipoaffinity,#D1963A
+272,9,20,ComRG: Composition of G,Transcript related,#CCB441
+273,9,21,HPC: Gas-hexadecane PC_3010,Partition coefficient,#C6CEBA
+274,9,22,HPC: Gas-hexadecane PC_3001,Partition coefficient,#C6CEBA
+275,9,23,SLF: Sum of path lengths starting from oxygens_3010,Topological indice,#B4B044
+276,9,24,PHB: Potential Hydrogen Bonds_3220,Hydrogen bond related,#FFC000
+277,9,25,SHD: Strong H-Bond donors101,Hydrogen bond related,#FFC000
+278,9,26,SHD: Strong H-Bond donors011,Hydrogen bond related,#FFC000
+279,9,27,SCDCC: Series correlation PseDN composition of CC,Nucleotide related,#ED7D31
+280,10,0,ProMW: Pseudo protein molecular weight,Pseudo protein related,#B3CE93
+281,10,1,EipSP: Electron-ion interaction pseudopotential signal peak,EIIP based spectrum,#99C94D
+282,10,2,HPCCC: Gas-hexadecane PC_3 composition of C,Partition coefficient,#C6CEBA
+283,10,3,PSNCB: Primary or secondary nitrogens composition of B,Topological indice,#B4B044
+284,10,4,TPSAB: Topological polar surface area_3 transition between A and B,Topological indice,#B4B044
+285,10,5,PSNAB: Primary or secondary nitrogens transition between A and B,Topological indice,#B4B044
+286,10,6,HPCB1: Gas-hexadecane PC distribution of 0.25B,Partition coefficient,#C6CEBA
+287,10,7,HPCB1: Gas-hexadecane PC_3 distribution of 0.25B,Partition coefficient,#C6CEBA
+288,10,8,SHAC2: Strong H-Bond acceptors_3 distriCution of 0.50C,Hydrogen bond related,#FFC000
+289,10,9,PHBB3: Potential Hydrogen Bonds_3 distribution of 0.75B,Hydrogen bond related,#FFC000
+290,10,10,CNHCB: NH- count composition of B,Molecular fingerprint,#9AB6D1
+291,10,11,SCDCG: Series correlation PseDN composition of CG,Nucleotide related,#ED7D31
+292,10,12,PCDCG: Parallel correlation PseDN composition of CG,Nucleotide related,#ED7D31
+293,10,13,SCDGC: Series correlation PseDN composition of GC,Nucleotide related,#ED7D31
+294,10,14,SLF: Sum of path lengths starting from oxygens_302,Topological indice,#B4B044
+295,10,15,LFI: Lipoaffinity index_30,Solubility lipoaffinity,#D1963A
+296,10,16,HPCBC: Gas-hexadecane PC_3 transition between B and C,Partition coefficient,#C6CEBA
+297,10,17,SCDTG: Series correlation PseDN composition of TG,Nucleotide related,#ED7D31
+298,10,18,HPC: Gas-hexadecane PC_3120,Partition coefficient,#C6CEBA
+299,10,19,ORFER: Entropy density R on ORF,Open reading frame,#BDC6CF
+300,10,20,TraEG: Entropy density G on transcript,Transcript related,#CCB441
+301,10,21,TPSCC: Topological polar surface area_3 composition of C,Topological indice,#B4B044
+302,10,22,PHBCC: Potential Hydrogen Bonds_3 composition of C,Hydrogen bond related,#FFC000
+303,10,23,PHB: Potential Hydrogen Bonds_3202,Hydrogen bond related,#FFC000
+304,10,24,PSNCA: Primary or secondary nitrogens composition of A,Topological indice,#B4B044
+305,10,25,PSN: Primary or secondary nitrogens0,Topological indice,#B4B044
+306,10,26,PHB: Potential Hydrogen Bonds_3022,Hydrogen bond related,#FFC000
+307,10,27,SHD: Strong H-Bond donors110,Hydrogen bond related,#FFC000
+308,11,0,EiPS1: Electron-ion interaction pseudopotential spectrum 0.25,EIIP based spectrum,#99C94D
+309,11,1,EiPS0: Electron-ion interaction pseudopotential spectrum 0,EIIP based spectrum,#99C94D
+310,11,2,AROL1: Dinucleotide auto covariance of lag1 on ROL,Nucleotide related,#ED7D31
+311,11,3,ORFEF: Entropy density F on ORF,Open reading frame,#BDC6CF
+312,11,4,PSN: Primary or secondary nitrogens10,Topological indice,#B4B044
+313,11,5,PHBB1: Potential Hydrogen Bonds_3 distribution of 0.25B,Hydrogen bond related,#FFC000
+314,11,6,HPCB2: Gas-hexadecane PC distribution of 0.50B,Partition coefficient,#C6CEBA
+315,11,7,HPCB2: Gas-hexadecane PC_3 distribution of 0.50B,Partition coefficient,#C6CEBA
+316,11,8,LFIA1: Lipoaffinity index distribution of 0.25A,Solubility lipoaffinity,#D1963A
+317,11,9,HPCB3: Gas-hexadecane PC_3 distribution of 0.75B,Partition coefficient,#C6CEBA
+318,11,10,SHA: Strong H-Bond acceptors_30,Hydrogen bond related,#FFC000
+319,11,11,TPS: Topological polar surface area_3210,Topological indice,#B4B044
+320,11,12,ORFEV: Entropy density V on ORF,Open reading frame,#BDC6CF
+321,11,13,PCDGC: Parallel correlation PseDN composition of GC,Nucleotide related,#ED7D31
+322,11,14,TPS: Topological polar surface area_3012,Topological indice,#B4B044
+323,11,15,SLF: Sum of path lengths starting from oxygens_320,Topological indice,#B4B044
+324,11,16,HPC: Gas-hexadecane PC_3021,Partition coefficient,#C6CEBA
+325,11,17,PCDGT: Parallel correlation PseDN composition of GT,Nucleotide related,#ED7D31
+326,11,18,SCDGT: Series correlation PseDN composition of GT,Nucleotide related,#ED7D31
+327,11,19,PHB: Potential Hydrogen Bonds_310,Hydrogen bond related,#FFC000
+328,11,20,SHDAB: Strong H-Bond donors transition between A and B,Hydrogen bond related,#FFC000
+329,11,21,SHD: Strong H-Bond donors10,Hydrogen bond related,#FFC000
+330,11,22,SHDCB: Strong H-Bond donors composition of B,Hydrogen bond related,#FFC000
+331,11,23,HPC: Gas-hexadecane PC_3100,Partition coefficient,#C6CEBA
+332,11,24,TPS: Topological polar surface area_320,Topological indice,#B4B044
+333,11,25,PSN: Primary or secondary nitrogens000,Topological indice,#B4B044
+334,11,26,TPS: Topological polar surface area_3002,Topological indice,#B4B044
+335,11,27,TPSAC: Topological polar surface area_3 transition between A and C,Topological indice,#B4B044
+336,12,0,TrLen: Transcript length,Transcript related,#CCB441
+337,12,1,SCFre: Stop codon frequency,Codon related,#679DC4
+338,12,2,L5UTR: Length of 5 untranslated region,Transcript related,#CCB441
+339,12,3,PSN: Primary or secondary nitrogens01,Topological indice,#B4B044
+340,12,4,MLFB1: Linear free energy distribution of 0.25B,Hydrogen bond related,#FFC000
+341,12,5,SLFA1: Sum of path lengths starting from oxygens_3 distribution of 0.25A,Topological indice,#B4B044
+342,12,6,DPRC2: Distribution of 0.50C,Transcript related,#CCB441
+343,12,7,SLFA3: Sum of path lengths starting from oxygens_3 distribution of 0.75A,Topological indice,#B4B044
+344,12,8,SHAC3: Strong H-Bond acceptors_3 distriCution of 0.75C,Hydrogen bond related,#FFC000
+345,12,9,ORFEM: Entropy density M on ORF,Open reading frame,#BDC6CF
+346,12,10,CNH: NH- count1,Molecular fingerprint,#9AB6D1
+347,12,11,TPS: Topological polar surface area_3021,Topological indice,#B4B044
+348,12,12,CNH: NH- count110,Molecular fingerprint,#9AB6D1
+349,12,13,TPS: Topological polar surface area_3120,Topological indice,#B4B044
+350,12,14,PSN: Primary or secondary nitrogens010,Topological indice,#B4B044
+351,12,15,TraEL: Entropy density L on transcript,Transcript related,#CCB441
+352,12,16,MRe: Molar refractivity011,Polarizability refractivity,#A0CF6D
+353,12,17,HPC: Gas-hexadecane PC_3012,Partition coefficient,#C6CEBA
+354,12,18,HPC: Gas-hexadecane PC_3210,Partition coefficient,#C6CEBA
+355,12,19,PHB: Potential Hydrogen Bonds_301,Hydrogen bond related,#FFC000
+356,12,20,TraEH: Entropy density H on transcript,Transcript related,#CCB441
+357,12,21,((.(,Secondary structure,#76A6D3
+358,12,22,SHD: Strong H-Bond donors01,Hydrogen bond related,#FFC000
+359,12,23,.(.,Secondary structure,#76A6D3
+360,12,24,PSN: Primary or secondary nitrogens00,Topological indice,#B4B044
+361,12,25,TPS: Topological polar surface area_3200,Topological indice,#B4B044
+362,12,26,TPS: Topological polar surface area_302,Topological indice,#B4B044
+363,12,27,TraER: Entropy density R on transcript,Transcript related,#CCB441
+364,13,0,EiPS3: Electron-ion interaction pseudopotential spectrum 0.75,EIIP based spectrum,#99C94D
+365,13,1,EiPS2: Electron-ion interaction pseudopotential spectrum 0.5,EIIP based spectrum,#99C94D
+366,13,2,SHDB1: Strong H-Bond donors distribution of 0.25B,Hydrogen bond related,#FFC000
+367,13,3,LFIC1: Lipoaffinity index_3 distriCution of 0.25C,Solubility lipoaffinity,#D1963A
+368,13,4,PHBC1: Potential Hydrogen Bonds_3 distriCution of 0.25C,Hydrogen bond related,#FFC000
+369,13,5,SLFA2: Sum of path lengths starting from oxygens_3 distribution of 0.50A,Topological indice,#B4B044
+370,13,6,MLFB2: Linear free energy distribution of 0.50B,Hydrogen bond related,#FFC000
+371,13,7,HPCB3: Gas-hexadecane PC distribution of 0.75B,Partition coefficient,#C6CEBA
+372,13,8,DPRC3: Distribution of 0.75C,Transcript related,#CCB441
+373,13,9,CC105: Cross covariance of lag1 on PID-SLI,Nucleotide related,#ED7D31
+374,13,10,MRe: Molar refractivity101,Polarizability refractivity,#A0CF6D
+375,13,11,HPC: Gas-hexadecane PC_3201,Partition coefficient,#C6CEBA
+376,13,12,CNH: NH- count011,Molecular fingerprint,#9AB6D1
+377,13,13,CC115: Cross covariance of lag1 on ETI-SLI,Nucleotide related,#ED7D31
+378,13,14,PSN: Primary or secondary nitrogens100,Topological indice,#B4B044
+379,13,15,PSN: Primary or secondary nitrogens001,Topological indice,#B4B044
+380,13,16,MRe: Molar refractivity110,Polarizability refractivity,#A0CF6D
+381,13,17,HPC: Gas-hexadecane PC010,Partition coefficient,#C6CEBA
+382,13,18,HPC: Gas-hexadecane PC001,Partition coefficient,#C6CEBA
+383,13,19,PHBAB: Potential Hydrogen Bonds_3 transition between A and B,Hydrogen bond related,#FFC000
+384,13,20,ORFEH: Entropy density H on ORF,Open reading frame,#BDC6CF
+385,13,21,TraET: Entropy density T on transcript,Transcript related,#CCB441
+386,13,22,.((,Secondary structure,#76A6D3
+387,13,23,(.((,Secondary structure,#76A6D3
+388,13,24,(.(,Secondary structure,#76A6D3
+389,13,25,..(.,Secondary structure,#76A6D3
+390,13,26,.(.(,Secondary structure,#76A6D3
+391,13,27,TPS: Topological polar surface area_3020,Topological indice,#B4B044
+392,14,0,Base pairs,Secondary structure,#76A6D3
+393,14,1,SCCou: Stop codon count,Codon related,#679DC4
+394,14,2,TPSC1: Topological polar surface area_3 distriCution of 0.25C,Topological indice,#B4B044
+395,14,3,DPRG1: Distribution of 0.25G,Transcript related,#CCB441
+396,14,4,PSNA1: Primary or secondary nitrogens distribution of 0.25A,Topological indice,#B4B044
+397,14,5,C5UTR: Coverage of 5 untranslated region,Transcript related,#CCB441
+398,14,6,MLFB3: Linear free energy distribution of 0.75B,Hydrogen bond related,#FFC000
+399,14,7,LFIA2: Lipoaffinity index distribution of 0.50A,Solubility lipoaffinity,#D1963A
+400,14,8,LFI: Lipoaffinity index_3102,Solubility lipoaffinity,#D1963A
+401,14,9,HPC: Gas-hexadecane PC_3102,Partition coefficient,#C6CEBA
+402,14,10,MRe: Molar refractivity01,Polarizability refractivity,#A0CF6D
+403,14,11,MReAB: Molar refractivity transition between A and B,Polarizability refractivity,#A0CF6D
+404,14,12,PCDl1: Parallel correlation PseDN composition of lamda1,Nucleotide related,#ED7D31
+405,14,13,CC110: Cross covariance of lag1 on BDS-SLI,Nucleotide related,#ED7D31
+406,14,14,CC125: Cross covariance of lag1 on WCI-SLI,Nucleotide related,#ED7D31
+407,14,15,ORFEL: Entropy density L on ORF,Open reading frame,#BDC6CF
+408,14,16,CNH: NH- count101,Molecular fingerprint,#9AB6D1
+409,14,17,PCDl2: Parallel correlation PseDN composition of lamda2,Nucleotide related,#ED7D31
+410,14,18,SHA: Strong H-Bond acceptors_3102,Hydrogen bond related,#FFC000
+411,14,19,HPC: Gas-hexadecane PC100,Partition coefficient,#C6CEBA
+412,14,20,SHA: Strong H-Bond acceptors_3120,Hydrogen bond related,#FFC000
+413,14,21,TraAC: Transition between A and C,Transcript related,#CCB441
+414,14,22,...,Secondary structure,#76A6D3
+415,14,23,(((.,Secondary structure,#76A6D3
+416,14,24,(.,Secondary structure,#76A6D3
+417,14,25,.((.,Secondary structure,#76A6D3
+418,14,26,.(..,Secondary structure,#76A6D3
+419,14,27,(.(.,Secondary structure,#76A6D3
+420,15,0,EipAP: Electron-ion interaction pseudopotential average power,EIIP based spectrum,#99C94D
+421,15,1,PHBC2: Potential Hydrogen Bonds_3 distriCution of 0.50C,Hydrogen bond related,#FFC000
+422,15,2,LFIC2: Lipoaffinity index_3 distriCution of 0.50C,Solubility lipoaffinity,#D1963A
+423,15,3,SHDB2: Strong H-Bond donors distribution of 0.50B,Hydrogen bond related,#FFC000
+424,15,4,PSNA3: Primary or secondary nitrogens distribution of 0.75A,Topological indice,#B4B044
+425,15,5,TPSC3: Topological polar surface area_3 distriCution of 0.75C,Topological indice,#B4B044
+426,15,6,PSNA2: Primary or secondary nitrogens distribution of 0.50A,Topological indice,#B4B044
+427,15,7,CC126: Cross covariance of lag1 on SLI-PID,Nucleotide related,#ED7D31
+428,15,8,CC103: Cross covariance of lag1 on PID-SKE,Nucleotide related,#ED7D31
+429,15,9,MRe: Molar refractivity010,Polarizability refractivity,#A0CF6D
+430,15,10,LFI: Lipoaffinity index_3201,Solubility lipoaffinity,#D1963A
+431,15,11,MRe: Molar refractivity10,Polarizability refractivity,#A0CF6D
+432,15,12,(,Secondary structure,#76A6D3
+433,15,13,((,Secondary structure,#76A6D3
+434,15,14,CC210: Cross covariance of lag2 on BDS-SLI,Nucleotide related,#ED7D31
+435,15,15,CC215: Cross covariance of lag2 on ETI-SLI,Nucleotide related,#ED7D31
+436,15,16,CNH: NH- count01,Molecular fingerprint,#9AB6D1
+437,15,17,CNH: NH- count10,Molecular fingerprint,#9AB6D1
+438,15,18,CNH: NH- count010,Molecular fingerprint,#9AB6D1
+439,15,19,MLF: Linear free energy10,Hydrogen bond related,#FFC000
+440,15,20,SHA: Strong H-Bond acceptors_3021,Hydrogen bond related,#FFC000
+441,15,21,SCDAT: Series correlation PseDN composition of AT,Nucleotide related,#ED7D31
+442,15,22,PCDAT: Parallel correlation PseDN composition of AT,Nucleotide related,#ED7D31
+443,15,23,..,Secondary structure,#76A6D3
+444,15,24,..(,Secondary structure,#76A6D3
+445,15,25,((.,Secondary structure,#76A6D3
+446,15,26,.(((,Secondary structure,#76A6D3
+447,15,27,.(,Secondary structure,#76A6D3
+448,16,0,L3UTR: Length of 3 untranslated region,Transcript related,#CCB441
+449,16,1,TPSC2: Topological polar surface area_3 distriCution of 0.50C,Topological indice,#B4B044
+450,16,2,DPRG2: Distribution of 0.50G,Transcript related,#CCB441
+451,16,3,PHBC3: Potential Hydrogen Bonds_3 distriCution of 0.75C,Hydrogen bond related,#FFC000
+452,16,4,DPRG3: Distribution of 0.75G,Transcript related,#CCB441
+453,16,5,LFIC3: Lipoaffinity index_3 distriCution of 0.75C,Solubility lipoaffinity,#D1963A
+454,16,6,CC104: Cross covariance of lag1 on PID-WCI,Nucleotide related,#ED7D31
+455,16,7,ALBZ2: Dinucleotide auto covariance of lag2 on LBZ,Nucleotide related,#ED7D31
+456,16,8,ARIS2: Dinucleotide auto covariance of lag2 on RIS,Nucleotide related,#ED7D31
+457,16,9,ASEZ2: Dinucleotide auto covariance of lag2 on SEZ,Nucleotide related,#ED7D31
+458,16,10,ATWI2: Dinucleotide auto covariance of lag2 on TWI,Nucleotide related,#ED7D31
+459,16,11,ASLI2: Dinucleotide auto covariance of lag2 on SLI,Nucleotide related,#ED7D31
+460,16,12,AAPH2: Dinucleotide auto covariance of lag2 on APH,Nucleotide related,#ED7D31
+461,16,13,(((,Secondary structure,#76A6D3
+462,16,14,SHAC4: Strong H-Bond acceptors_3 distriCution of 1.00C,Hydrogen bond related,#FFC000
+463,16,15,SLFA4: Sum of path lengths starting from oxygens_3 distribution of 1.00A,Topological indice,#B4B044
+464,16,16,MLFB4: Linear free energy distribution of 1.00B,Hydrogen bond related,#FFC000
+465,16,17,SHA: Strong H-Bond acceptors_3201,Hydrogen bond related,#FFC000
+466,16,18,ASFB1: Dinucleotide auto covariance of lag1 on SFB,Nucleotide related,#ED7D31
+467,16,19,CC129: Cross covariance of lag1 on SLI-SKE,Nucleotide related,#ED7D31
+468,16,20,CC127: Cross covariance of lag1 on SLI-BDS,Nucleotide related,#ED7D31
+469,16,21,PCDTA: Parallel correlation PseDN composition of TA,Nucleotide related,#ED7D31
+470,16,22,SHABC: Strong H-Bond acceptors_3 transition between B and C,Hydrogen bond related,#FFC000
+471,16,23,ORFET: Entropy density T on ORF,Open reading frame,#BDC6CF
+472,16,24,....,Secondary structure,#76A6D3
+473,16,25,(...,Secondary structure,#76A6D3
+474,16,26,..((,Secondary structure,#76A6D3
+475,16,27,(..(,Secondary structure,#76A6D3
+476,17,0,APIA1: Dinucleotide auto covariance of lag1 on PIA,Nucleotide related,#ED7D31
+477,17,1,CC114: Cross covariance of lag1 on ETI-WCI,Nucleotide related,#ED7D31
+478,17,2,SHDB3: Strong H-Bond donors distribution of 0.75B,Hydrogen bond related,#FFC000
+479,17,3,ABST1: Dinucleotide auto covariance of lag1 on BST,Nucleotide related,#ED7D31
+480,17,4,TPS: Topological polar surface area_3102,Topological indice,#B4B044
+481,17,5,CC113: Cross covariance of lag1 on ETI-SKE,Nucleotide related,#ED7D31
+482,17,6,CC101: Cross covariance of lag1 on PID-BDS,Nucleotide related,#ED7D31
+483,17,7,CC102: Cross covariance of lag1 on PID-ETI,Nucleotide related,#ED7D31
+484,17,8,APID2: Dinucleotide auto covariance of lag2 on PID,Nucleotide related,#ED7D31
+485,17,9,ATIL2: Dinucleotide auto covariance of lag2 on TIL,Nucleotide related,#ED7D31
+486,17,10,APDT2: Dinucleotide auto covariance of lag2 on PDT,Nucleotide related,#ED7D31
+487,17,11,CC220: Cross covariance of lag2 on SKE-SLI,Nucleotide related,#ED7D31
+488,17,12,AIBA2: Dinucleotide auto covariance of lag2 on IBA,Nucleotide related,#ED7D31
+489,17,13,((((,Secondary structure,#76A6D3
+490,17,14,CC225: Cross covariance of lag2 on WCI-SLI,Nucleotide related,#ED7D31
+491,17,15,DPRG4: Distribution of 1.00G,Transcript related,#CCB441
+492,17,16,HPCB4: Gas-hexadecane PC distribution of 1.00B,Partition coefficient,#C6CEBA
+493,17,17,LFIC4: Lipoaffinity index_3 distriCution of 1.00C,Solubility lipoaffinity,#D1963A
+494,17,18,CNHAB: NH- count transition between A and B,Molecular fingerprint,#9AB6D1
+495,17,19,TPS: Topological polar surface area_3201,Topological indice,#B4B044
+496,17,20,MLF: Linear free energy01,Hydrogen bond related,#FFC000
+497,17,21,CC130: Cross covariance of lag1 on SLI-WCI,Nucleotide related,#ED7D31
+498,17,22,SCDTA: Series correlation PseDN composition of TA,Nucleotide related,#ED7D31
+499,17,23,TPS: Topological polar surface area_3000,Topological indice,#B4B044
+500,17,24,TPS: Topological polar surface area_300,Topological indice,#B4B044
+501,17,25,.,Secondary structure,#76A6D3
+502,17,26,...(,Secondary structure,#76A6D3
+503,17,27,(..,Secondary structure,#76A6D3
+504,18,0,AETI1: Dinucleotide auto covariance of lag1 on ETI,Nucleotide related,#ED7D31
+505,18,1,CC107: Cross covariance of lag1 on BDS-ETI,Nucleotide related,#ED7D31
+506,18,2,APTW1: Dinucleotide auto covariance of lag1 on PTW,Nucleotide related,#ED7D31
+507,18,3,ASKE1: Dinucleotide auto covariance of lag1 on SKE,Nucleotide related,#ED7D31
+508,18,4,L1SKE: Series correlation PseDN composition of lamda1-SKE,Nucleotide related,#ED7D31
+509,18,5,CC108: Cross covariance of lag1 on BDS-SKE,Nucleotide related,#ED7D31
+510,18,6,L2SKE: Series correlation PseDN composition of lamda2-SKE,Nucleotide related,#ED7D31
+511,18,7,ADDT2: Dinucleotide auto covariance of lag2 on DDT,Nucleotide related,#ED7D31
+512,18,8,AHTF2: Dinucleotide auto covariance of lag2 on HTF,Nucleotide related,#ED7D31
+513,18,9,L2PID: Series correlation PseDN composition of lamda2-PID,Nucleotide related,#ED7D31
+514,18,10,L2SLI: Series correlation PseDN composition of lamda2-SLI,Nucleotide related,#ED7D31
+515,18,11,AABA1: Dinucleotide auto covariance of lag1 on ABA,Nucleotide related,#ED7D31
+516,18,12,ASFB2: Dinucleotide auto covariance of lag2 on SFB,Nucleotide related,#ED7D31
+517,18,13,CC229: Cross covariance of lag2 on SLI-SKE,Nucleotide related,#ED7D31
+518,18,14,CC230: Cross covariance of lag2 on SLI-WCI,Nucleotide related,#ED7D31
+519,18,15,CC228: Cross covariance of lag2 on SLI-ETI,Nucleotide related,#ED7D31
+520,18,16,TPSC4: Topological polar surface area_3 distriCution of 1.00C,Topological indice,#B4B044
+521,18,17,PHBC4: Potential Hydrogen Bonds_3 distriCution of 1.00C,Hydrogen bond related,#FFC000
+522,18,18,CC226: Cross covariance of lag2 on SLI-PID,Nucleotide related,#ED7D31
+523,18,19,APDT1: Dinucleotide auto covariance of lag1 on PDT,Nucleotide related,#ED7D31
+524,18,20,ASLI1: Dinucleotide auto covariance of lag1 on SLI,Nucleotide related,#ED7D31
+525,18,21,MLFAB: Linear free energy transition between A and B,Hydrogen bond related,#FFC000
+526,18,22,SHA: Strong H-Bond acceptors_3012,Hydrogen bond related,#FFC000
+527,18,23,SHA: Strong H-Bond acceptors_3210,Hydrogen bond related,#FFC000
+528,18,24,CNH: NH- count0,Molecular fingerprint,#9AB6D1
+529,18,25,CNH: NH- count000,Molecular fingerprint,#9AB6D1
+530,18,26,CNH: NH- count00,Molecular fingerprint,#9AB6D1
+531,18,27,((..,Secondary structure,#76A6D3
+532,19,0,AWCI1: Dinucleotide auto covariance of lag1 on WCI,Nucleotide related,#ED7D31
+533,19,1,CC109: Cross covariance of lag1 on BDS-WCI,Nucleotide related,#ED7D31
+534,19,2,CC119: Cross covariance of lag1 on SKE-WCI,Nucleotide related,#ED7D31
+535,19,3,L1ETI: Series correlation PseDN composition of lamda1-ETI,Nucleotide related,#ED7D31
+536,19,4,CC124: Cross covariance of lag1 on WCI-SKE,Nucleotide related,#ED7D31
+537,19,5,L1WCI: Series correlation PseDN composition of lamda1-WCI,Nucleotide related,#ED7D31
+538,19,6,L2WCI: Series correlation PseDN composition of lamda2-WCI,Nucleotide related,#ED7D31
+539,19,7,ASKE2: Dinucleotide auto covariance of lag2 on SKE,Nucleotide related,#ED7D31
+540,19,8,ASTB2: Dinucleotide auto covariance of lag2 on STB,Nucleotide related,#ED7D31
+541,19,9,CC116: Cross covariance of lag1 on SKE-PID,Nucleotide related,#ED7D31
+542,19,10,ABLS2: Dinucleotide auto covariance of lag2 on BLS,Nucleotide related,#ED7D31
+543,19,11,ASDH1: Dinucleotide auto covariance of lag1 on SDH,Nucleotide related,#ED7D31
+544,19,12,ASHI2: Dinucleotide auto covariance of lag2 on SHI,Nucleotide related,#ED7D31
+545,19,13,SHAB4: Strong H-Bond acceptors_3 distribution of 1.00B,Hydrogen bond related,#FFC000
+546,19,14,ABDT2: Dinucleotide auto covariance of lag2 on BDT,Nucleotide related,#ED7D31
+547,19,15,CC227: Cross covariance of lag2 on SLI-BDS,Nucleotide related,#ED7D31
+548,19,16,SHAA4: Strong H-Bond acceptors_3 distribution of 1.00A,Hydrogen bond related,#FFC000
+549,19,17,SHDB4: Strong H-Bond donors distribution of 1.00B,Hydrogen bond related,#FFC000
+550,19,18,PHBB4: Potential Hydrogen Bonds_3 distribution of 1.00B,Hydrogen bond related,#FFC000
+551,19,19,ProII: Pseudo protein instability index,Pseudo protein related,#B3CE93
+552,19,20,L1SLI: Series correlation PseDN composition of lamda1-SLI,Nucleotide related,#ED7D31
+553,19,21,ATIL1: Dinucleotide auto covariance of lag1 on TIL,Nucleotide related,#ED7D31
+554,19,22,CC128: Cross covariance of lag1 on SLI-ETI,Nucleotide related,#ED7D31
+555,19,23,CNH: NH- count001,Molecular fingerprint,#9AB6D1
+556,19,24,TPSCA: Topological polar surface area_3 composition of A,Topological indice,#B4B044
+557,19,25,CNHCA: NH- count composition of A,Molecular fingerprint,#9AB6D1
+558,19,26,TPS: Topological polar surface area_30,Topological indice,#B4B044
+559,19,27,0,NaN,#000000
+560,20,0,ADGC1: Dinucleotide auto covariance of lag1 on DGC,Nucleotide related,#ED7D31
+561,20,1,ASMG1: Dinucleotide auto covariance of lag1 on SMG,Nucleotide related,#ED7D31
+562,20,2,CC118: Cross covariance of lag1 on SKE-ETI,Nucleotide related,#ED7D31
+563,20,3,CC224: Cross covariance of lag2 on WCI-SKE,Nucleotide related,#ED7D31
+564,20,4,CC213: Cross covariance of lag2 on ETI-SKE,Nucleotide related,#ED7D31
+565,20,5,CC208: Cross covariance of lag2 on BDS-SKE,Nucleotide related,#ED7D31
+566,20,6,L2ETI: Series correlation PseDN composition of lamda2-ETI,Nucleotide related,#ED7D31
+567,20,7,L2BDS: Series correlation PseDN composition of lamda2-BDS,Nucleotide related,#ED7D31
+568,20,8,ABST2: Dinucleotide auto covariance of lag2 on BST,Nucleotide related,#ED7D31
+569,20,9,CC121: Cross covariance of lag1 on WCI-PID,Nucleotide related,#ED7D31
+570,20,10,ProPI: Pseudo protein isoelectric point,Pseudo protein related,#B3CE93
+571,20,11,ASDS1: Dinucleotide auto covariance of lag1 on SDS,Nucleotide related,#ED7D31
+572,20,12,ASHI1: Dinucleotide auto covariance of lag1 on SHI,Nucleotide related,#ED7D31
+573,20,13,LFIB4: Lipoaffinity index distribution of 1.00B,Solubility lipoaffinity,#D1963A
+574,20,14,SLFB4: Sum of path lengths starting from oxygens_3 distribution of 1.00B,Topological indice,#B4B044
+575,20,15,AABA2: Dinucleotide auto covariance of lag2 on ABA,Nucleotide related,#ED7D31
+576,20,16,HPCB4: Gas-hexadecane PC_3 distribution of 1.00B,Partition coefficient,#C6CEBA
+577,20,17,CNHB4: NH- count distribution of 1.00B,Molecular fingerprint,#9AB6D1
+578,20,18,CC205: Cross covariance of lag2 on PID-SLI,Nucleotide related,#ED7D31
+579,20,19,ATWI1: Dinucleotide auto covariance of lag1 on TWI,Nucleotide related,#ED7D31
+580,20,20,CC120: Cross covariance of lag1 on SKE-SLI,Nucleotide related,#ED7D31
+581,20,21,TraES: Entropy density S on transcript,Transcript related,#CCB441
+582,20,22,SHD: Strong H-Bond donors100,Hydrogen bond related,#FFC000
+583,20,23,LFI: Lipoaffinity index_3012,Solubility lipoaffinity,#D1963A
+584,20,24,ORFEQ: Entropy density Q on ORF,Open reading frame,#BDC6CF
+585,20,25,CNH: NH- count100,Molecular fingerprint,#9AB6D1
+586,20,26,TraEQ: Entropy density Q on transcript,Transcript related,#CCB441
+587,20,27,0,NaN,#000000
+588,21,0,CC123: Cross covariance of lag1 on WCI-ETI,Nucleotide related,#ED7D31
+589,21,1,ADST1: Dinucleotide auto covariance of lag1 on DST,Nucleotide related,#ED7D31
+590,21,2,ASDG1: Dinucleotide auto covariance of lag1 on SDG,Nucleotide related,#ED7D31
+591,21,3,AETI2: Dinucleotide auto covariance of lag2 on ETI,Nucleotide related,#ED7D31
+592,21,4,CC117: Cross covariance of lag1 on SKE-BDS,Nucleotide related,#ED7D31
+593,21,5,CC214: Cross covariance of lag2 on ETI-WCI,Nucleotide related,#ED7D31
+594,21,6,CC207: Cross covariance of lag2 on BDS-ETI,Nucleotide related,#ED7D31
+595,21,7,CC209: Cross covariance of lag2 on BDS-WCI,Nucleotide related,#ED7D31
+596,21,8,ABDS2: Dinucleotide auto covariance of lag2 on BDS,Nucleotide related,#ED7D31
+597,21,9,AROL2: Dinucleotide auto covariance of lag2 on ROL,Nucleotide related,#ED7D31
+598,21,10,CC111: Cross covariance of lag1 on ETI-PID,Nucleotide related,#ED7D31
+599,21,11,AIBA1: Dinucleotide auto covariance of lag1 on IBA,Nucleotide related,#ED7D31
+600,21,12,L1PID: Series correlation PseDN composition of lamda1-PID,Nucleotide related,#ED7D31
+601,21,13,ABDT1: Dinucleotide auto covariance of lag1 on BDT,Nucleotide related,#ED7D31
+602,21,14,LFIB4: Lipoaffinity index_3 distribution of 1.00B,Solubility lipoaffinity,#D1963A
+603,21,15,DPRT4: Distribution of 1.00T,Transcript related,#CCB441
+604,21,16,ASDS2: Dinucleotide auto covariance of lag2 on SDS,Nucleotide related,#ED7D31
+605,21,17,ASDH2: Dinucleotide auto covariance of lag2 on SDH,Nucleotide related,#ED7D31
+606,21,18,ORFES: Entropy density S on ORF,Open reading frame,#BDC6CF
+607,21,19,CC216: Cross covariance of lag2 on SKE-PID,Nucleotide related,#ED7D31
+608,21,20,ARIS1: Dinucleotide auto covariance of lag1 on RIS,Nucleotide related,#ED7D31
+609,21,21,LFI: Lipoaffinity index010,Solubility lipoaffinity,#D1963A
+610,21,22,SHD: Strong H-Bond donors001,Hydrogen bond related,#FFC000
+611,21,23,SHD: Strong H-Bond donors010,Hydrogen bond related,#FFC000
+612,21,24,SLF: Sum of path lengths starting from oxygens_301,Topological indice,#B4B044
+613,21,25,SLFAB: Sum of path lengths starting from oxygens_3 transition between A and B,Topological indice,#B4B044
+614,21,26,SLF: Sum of path lengths starting from oxygens_310,Topological indice,#B4B044
+615,21,27,0,NaN,#000000
+616,22,0,CC122: Cross covariance of lag1 on WCI-BDS,Nucleotide related,#ED7D31
+617,22,1,ASDG2: Dinucleotide auto covariance of lag2 on SDG,Nucleotide related,#ED7D31
+618,22,2,ABDG2: Dinucleotide auto covariance of lag2 on BDG,Nucleotide related,#ED7D31
+619,22,3,AHCT2: Dinucleotide auto covariance of lag2 on HCT,Nucleotide related,#ED7D31
+620,22,4,ADGC2: Dinucleotide auto covariance of lag2 on DGC,Nucleotide related,#ED7D31
+621,22,5,CC223: Cross covariance of lag2 on WCI-ETI,Nucleotide related,#ED7D31
+622,22,6,CC204: Cross covariance of lag2 on PID-WCI,Nucleotide related,#ED7D31
+623,22,7,CC212: Cross covariance of lag2 on ETI-BDS,Nucleotide related,#ED7D31
+624,22,8,CC222: Cross covariance of lag2 on WCI-BDS,Nucleotide related,#ED7D31
+625,22,9,ABDH2: Dinucleotide auto covariance of lag2 on BDH,Nucleotide related,#ED7D31
+626,22,10,CC106: Cross covariance of lag1 on BDS-PID,Nucleotide related,#ED7D31
+627,22,11,ADDT1: Dinucleotide auto covariance of lag1 on DDT,Nucleotide related,#ED7D31
+628,22,12,AAPH1: Dinucleotide auto covariance of lag1 on APH,Nucleotide related,#ED7D31
+629,22,13,SHDA3: Strong H-Bond donors distribution of 0.75A,Hydrogen bond related,#FFC000
+630,22,14,APID1: Dinucleotide auto covariance of lag1 on PID,Nucleotide related,#ED7D31
+631,22,15,DPRA4: Distribution of 1.00A,Transcript related,#CCB441
+632,22,16,SHAA3: Strong H-Bond acceptors_3 distribution of 0.75A,Hydrogen bond related,#FFC000
+633,22,17,DPRC4: Distribution of 1.00C,Transcript related,#CCB441
+634,22,18,CC203: Cross covariance of lag2 on PID-SKE,Nucleotide related,#ED7D31
+635,22,19,ASEZ1: Dinucleotide auto covariance of lag1 on SEZ,Nucleotide related,#ED7D31
+636,22,20,AHTF1: Dinucleotide auto covariance of lag1 on HTF,Nucleotide related,#ED7D31
+637,22,21,LFI: Lipoaffinity index100,Solubility lipoaffinity,#D1963A
+638,22,22,PHB: Potential Hydrogen Bonds_302,Hydrogen bond related,#FFC000
+639,22,23,PHBAC: Potential Hydrogen Bonds_3 transition between A and C,Hydrogen bond related,#FFC000
+640,22,24,LFI: Lipoaffinity index_3120,Solubility lipoaffinity,#D1963A
+641,22,25,SCDAC: Series correlation PseDN composition of AC,Nucleotide related,#ED7D31
+642,22,26,PCDAC: Parallel correlation PseDN composition of AC,Nucleotide related,#ED7D31
+643,22,27,0,NaN,#000000
+644,23,0,CC112: Cross covariance of lag1 on ETI-BDS,Nucleotide related,#ED7D31
+645,23,1,CC219: Cross covariance of lag2 on SKE-WCI,Nucleotide related,#ED7D31
+646,23,2,ADST2: Dinucleotide auto covariance of lag2 on DST,Nucleotide related,#ED7D31
+647,23,3,ASMS2: Dinucleotide auto covariance of lag2 on SMS,Nucleotide related,#ED7D31
+648,23,4,AWCI2: Dinucleotide auto covariance of lag2 on WCI,Nucleotide related,#ED7D31
+649,23,5,APTW2: Dinucleotide auto covariance of lag2 on PTW,Nucleotide related,#ED7D31
+650,23,6,CC202: Cross covariance of lag2 on PID-ETI,Nucleotide related,#ED7D31
+651,23,7,CC221: Cross covariance of lag2 on WCI-PID,Nucleotide related,#ED7D31
+652,23,8,CC201: Cross covariance of lag2 on PID-BDS,Nucleotide related,#ED7D31
+653,23,9,MLFA3: Linear free energy distribution of 0.75A,Hydrogen bond related,#FFC000
+654,23,10,SHDA1: Strong H-Bond donors distribution of 0.25A,Hydrogen bond related,#FFC000
+655,23,11,ORFIn: ORF integrity,Open reading frame,#BDC6CF
+656,23,12,DPRT3: Distribution of 0.75T,Transcript related,#CCB441
+657,23,13,HPCC3: Gas-hexadecane PC_3 distriCution of 0.75C,Partition coefficient,#C6CEBA
+658,23,14,LFIA3: Lipoaffinity index_3 distribution of 0.75A,Solubility lipoaffinity,#D1963A
+659,23,15,LFIA3: Lipoaffinity index distribution of 0.75A,Solubility lipoaffinity,#D1963A
+660,23,16,CNHB3: NH- count distribution of 0.75B,Molecular fingerprint,#9AB6D1
+661,23,17,CNHB2: NH- count distribution of 0.50B,Molecular fingerprint,#9AB6D1
+662,23,18,SHAA2: Strong H-Bond acceptors_3 distribution of 0.50A,Hydrogen bond related,#FFC000
+663,23,19,PPMFS: Pseudo protein PI-MW frame score,Pseudo protein related,#B3CE93
+664,23,20,ALBZ1: Dinucleotide auto covariance of lag1 on LBZ,Nucleotide related,#ED7D31
+665,23,21,LFI: Lipoaffinity index001,Solubility lipoaffinity,#D1963A
+666,23,22,TraED: Entropy density D on transcript,Transcript related,#CCB441
+667,23,23,PHB: Potential Hydrogen Bonds_320,Hydrogen bond related,#FFC000
+668,23,24,LFI: Lipoaffinity index_3021,Solubility lipoaffinity,#D1963A
+669,23,25,SCDCA: Series correlation PseDN composition of CA,Nucleotide related,#ED7D31
+670,23,26,TraAG: Transition between A and G,Transcript related,#CCB441
+671,23,27,0,NaN,#000000
+672,24,0,ABDS1: Dinucleotide auto covariance of lag1 on BDS,Nucleotide related,#ED7D31
+673,24,1,ASMG2: Dinucleotide auto covariance of lag2 on SMG,Nucleotide related,#ED7D31
+674,24,2,ADTB2: Dinucleotide auto covariance of lag2 on DTB,Nucleotide related,#ED7D31
+675,24,3,ASMH2: Dinucleotide auto covariance of lag2 on SMH,Nucleotide related,#ED7D31
+676,24,4,APIA2: Dinucleotide auto covariance of lag2 on PIA,Nucleotide related,#ED7D31
+677,24,5,CC211: Cross covariance of lag2 on ETI-PID,Nucleotide related,#ED7D31
+678,24,6,CC206: Cross covariance of lag2 on BDS-PID,Nucleotide related,#ED7D31
+679,24,7,SHAB3: Strong H-Bond acceptors_3 distribution of 0.75B,Hydrogen bond related,#FFC000
+680,24,8,HPCA3: Gas-hexadecane PC distribution of 0.75A,Partition coefficient,#C6CEBA
+681,24,9,HPCA2: Gas-hexadecane PC distribution of 0.50A,Partition coefficient,#C6CEBA
+682,24,10,PHBA2: Potential Hydrogen Bonds_3 distribution of 0.50A,Hydrogen bond related,#FFC000
+683,24,11,PHBA3: Potential Hydrogen Bonds_3 distribution of 0.75A,Hydrogen bond related,#FFC000
+684,24,12,SHDA2: Strong H-Bond donors distribution of 0.50A,Hydrogen bond related,#FFC000
+685,24,13,SLFC3: Sum of path lengths starting from oxygens_3 distriCution of 0.75C,Topological indice,#B4B044
+686,24,14,TPSB3: Topological polar surface area_3 distribution of 0.75B,Topological indice,#B4B044
+687,24,15,MReB3: Molar refractivity distribution of 0.75B,Polarizability refractivity,#A0CF6D
+688,24,16,MReB1: Molar refractivity distribution of 0.25B,Polarizability refractivity,#A0CF6D
+689,24,17,LFIA2: Lipoaffinity index_3 distribution of 0.50A,Solubility lipoaffinity,#D1963A
+690,24,18,SHAA1: Strong H-Bond acceptors_3 distribution of 0.25A,Hydrogen bond related,#FFC000
+691,24,19,TPSA3: Topological polar surface area_3 distribution of 0.75A,Topological indice,#B4B044
+692,24,20,TPSA1: Topological polar surface area_3 distribution of 0.25A,Topological indice,#B4B044
+693,24,21,ORFED: Entropy density D on ORF,Open reading frame,#BDC6CF
+694,24,22,MRe: Molar refractivity100,Polarizability refractivity,#A0CF6D
+695,24,23,LFI: Lipoaffinity index_3210,Solubility lipoaffinity,#D1963A
+696,24,24,MRe: Molar refractivity0,Polarizability refractivity,#A0CF6D
+697,24,25,PCDCA: Parallel correlation PseDN composition of CA,Nucleotide related,#ED7D31
+698,24,26,LFIBC: Lipoaffinity index_3 transition between B and C,Solubility lipoaffinity,#D1963A
+699,24,27,0,NaN,#000000
+700,25,0,CC218: Cross covariance of lag2 on SKE-ETI,Nucleotide related,#ED7D31
+701,25,1,CC217: Cross covariance of lag2 on SKE-BDS,Nucleotide related,#ED7D31
+702,25,2,MReA3: Molar refractivity distribution of 0.75A,Polarizability refractivity,#A0CF6D
+703,25,3,HPCA3: Gas-hexadecane PC_3 distribution of 0.75A,Partition coefficient,#C6CEBA
+704,25,4,LFIB3: Lipoaffinity index distribution of 0.75B,Solubility lipoaffinity,#D1963A
+705,25,5,SLFB3: Sum of path lengths starting from oxygens_3 distribution of 0.75B,Topological indice,#B4B044
+706,25,6,LFIB3: Lipoaffinity index_3 distribution of 0.75B,Solubility lipoaffinity,#D1963A
+707,25,7,SHAB2: Strong H-Bond acceptors_3 distribution of 0.50B,Hydrogen bond related,#FFC000
+708,25,8,DPRA2: Distribution of 0.50A,Transcript related,#CCB441
+709,25,9,HPCA1: Gas-hexadecane PC distribution of 0.25A,Partition coefficient,#C6CEBA
+710,25,10,MLFA2: Linear free energy distribution of 0.50A,Hydrogen bond related,#FFC000
+711,25,11,PHBA1: Potential Hydrogen Bonds_3 distribution of 0.25A,Hydrogen bond related,#FFC000
+712,25,12,MLFA1: Linear free energy distribution of 0.25A,Hydrogen bond related,#FFC000
+713,25,13,PSNB1: Primary or secondary nitrogens distribution of 0.25B,Topological indice,#B4B044
+714,25,14,PSNB2: Primary or secondary nitrogens distribution of 0.50B,Topological indice,#B4B044
+715,25,15,SLFC2: Sum of path lengths starting from oxygens_3 distriCution of 0.50C,Topological indice,#B4B044
+716,25,16,PSNB3: Primary or secondary nitrogens distribution of 0.75B,Topological indice,#B4B044
+717,25,17,LFIA1: Lipoaffinity index_3 distribution of 0.25A,Solubility lipoaffinity,#D1963A
+718,25,18,MReB2: Molar refractivity distribution of 0.50B,Polarizability refractivity,#A0CF6D
+719,25,19,CNHB1: NH- count distribution of 0.25B,Molecular fingerprint,#9AB6D1
+720,25,20,TPSA2: Topological polar surface area_3 distribution of 0.50A,Topological indice,#B4B044
+721,25,21,CNHA1: NH- count distribution of 0.25A,Molecular fingerprint,#9AB6D1
+722,25,22,MRe: Molar refractivity001,Polarizability refractivity,#A0CF6D
+723,25,23,MReCA: Molar refractivity composition of A,Polarizability refractivity,#A0CF6D
+724,25,24,MRe: Molar refractivity00,Polarizability refractivity,#A0CF6D
+725,25,25,TraEE: Entropy density E on transcript,Transcript related,#CCB441
+726,25,26,ORFEE: Entropy density E on ORF,Open reading frame,#BDC6CF
+727,25,27,0,NaN,#000000
+728,26,0,HPCA2: Gas-hexadecane PC_3 distribution of 0.50A,Partition coefficient,#C6CEBA
+729,26,1,MReA2: Molar refractivity distribution of 0.50A,Polarizability refractivity,#A0CF6D
+730,26,2,HPCA1: Gas-hexadecane PC_3 distribution of 0.25A,Partition coefficient,#C6CEBA
+731,26,3,MReA1: Molar refractivity distribution of 0.25A,Polarizability refractivity,#A0CF6D
+732,26,4,DPRA3: Distribution of 0.75A,Transcript related,#CCB441
+733,26,5,LFIB2: Lipoaffinity index_3 distribution of 0.50B,Solubility lipoaffinity,#D1963A
+734,26,6,SLFB2: Sum of path lengths starting from oxygens_3 distribution of 0.50B,Topological indice,#B4B044
+735,26,7,LFIB2: Lipoaffinity index distribution of 0.50B,Solubility lipoaffinity,#D1963A
+736,26,8,SLFB1: Sum of path lengths starting from oxygens_3 distribution of 0.25B,Topological indice,#B4B044
+737,26,9,LFIB1: Lipoaffinity index_3 distribution of 0.25B,Solubility lipoaffinity,#D1963A
+738,26,10,LFIB1: Lipoaffinity index distribution of 0.25B,Solubility lipoaffinity,#D1963A
+739,26,11,DPRA1: Distribution of 0.25A,Transcript related,#CCB441
+740,26,12,SHAB1: Strong H-Bond acceptors_3 distribution of 0.25B,Hydrogen bond related,#FFC000
+741,26,13,DPRT1: Distribution of 0.25T,Transcript related,#CCB441
+742,26,14,TPSB1: Topological polar surface area_3 distribution of 0.25B,Topological indice,#B4B044
+743,26,15,HPCC1: Gas-hexadecane PC_3 distriCution of 0.25C,Partition coefficient,#C6CEBA
+744,26,16,SLFC1: Sum of path lengths starting from oxygens_3 distriCution of 0.25C,Topological indice,#B4B044
+745,26,17,TPSB2: Topological polar surface area_3 distribution of 0.50B,Topological indice,#B4B044
+746,26,18,HPCC2: Gas-hexadecane PC_3 distriCution of 0.50C,Partition coefficient,#C6CEBA
+747,26,19,DPRT2: Distribution of 0.50T,Transcript related,#CCB441
+748,26,20,CNHA3: NH- count distribution of 0.75A,Molecular fingerprint,#9AB6D1
+749,26,21,CNHA2: NH- count distribution of 0.50A,Molecular fingerprint,#9AB6D1
+750,26,22,HPC: Gas-hexadecane PC_30,Partition coefficient,#C6CEBA
+751,26,23,HPCCA: Gas-hexadecane PC_3 composition of A,Partition coefficient,#C6CEBA
+752,26,24,HPC: Gas-hexadecane PC_300,Partition coefficient,#C6CEBA
+753,26,25,HPC: Gas-hexadecane PC_3000,Partition coefficient,#C6CEBA
+754,26,26,MRe: Molar refractivity000,Polarizability refractivity,#A0CF6D
+755,26,27,0,NaN,#000000
