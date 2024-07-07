@@ -45,7 +45,7 @@ optional arguments:
 
 # Study demo
 ## RNAInterpret
-Users can run RNA-only tasks like following shell script.
+Users can run tasks like following shell script.
 ```shell
 python RNAInterpret.py -i ./demo/sense_intronic_sample.fa \
     -o ./demo/output_sense_intronic_sample \
