@@ -15,12 +15,7 @@ from map.RNA_featurizer_map_gap import transform_gap
 map_type = '5species'# ['human','5species']
 
 fastapath = os.path.abspath(os.path.dirname(__file__)) + '/demo/sense_intronic_sample.fa'
-# fastapath = os.path.abspath(os.path.dirname(__file__)) + '/demo/lncRNA_xist.fa'
-# fastapath = '/public/home/wangyx/01_MolMap/Data/fasta_data/ENCODE/1000.fa'
-# fastapath = '/public/home/wangyx/01_MolMap/Data/fasta_data/ENCODE/4_test.fa'
-
 output_path = os.path.abspath(os.path.dirname(__file__)) + '/demo/output_sense_intronic_sample'
-# output_path = '/public/home/wangyx/01_MolMap/Data/fasta_data/ENCODE/out'
 
 feature_d = transform_d(fastapath,map_type,output_path)
 feature_gap = transform_gap(fastapath,map_type,output_path)
@@ -36,6 +31,9 @@ print(feature_gap)
 
 # load the transformed Y label
 y_train_valid_path = os.path.abspath(os.path.dirname(__file__)) + '/demo/sense_intronic_sample_label.csv'
+
+testX = (feature_d, feature_gap)
+
 
 
 
