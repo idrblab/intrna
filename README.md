@@ -1,33 +1,33 @@
 [![AUR](https://img.shields.io/badge/license-GPL%203.0-blue.svg)]
 [![Python 3.x](https://img.shields.io/badge/Python-3.X-green.svg)](https://www.python.org/)
-[![RNAInterpret](fig/RNAInterpret-Title.png)](http://idrblab.org/rnamap/)
-RNAInterpret first introduced a dual-path classification model to enable a systematic interpretation of the RNA universe. **(1) providing a dual-path classification model was proposed to enable systematic interpretation of the RNA universe, (2) a novel encoding strategy was introduced by incorporating the most comprehensive set of features**. Therefore, users can get the encoding results and the classification of RNA from RNAInterpret.
+[![IntRNA](fig/RNAInterpret-Title.png)](http://idrblab.org/rnamap/)
+IntRNA first introduced a dual-path classification model to enable a systematic interpretation of the RNA universe. **(1) providing a dual-path classification model was proposed to enable systematic interpretation of the RNA universe, (2) a novel encoding strategy was introduced by incorporating the most comprehensive set of features**. Therefore, users can get the encoding results and the classification of RNA from IntRNA.
 
 # Contents
 - [Contents](#contents)
 - [Requirements and installment](#requirements-and-installment)
 - [Basic usage](#basic-usage)
 - [Study demo](#study-demo)
-  - [RNAInterpret](#1-RNAInterpret)
+  - [IntRNA](#1-IntRNA)
 - [Question && issue](#question--issue)
 
 # Requirements and installment
 This software is developed with Python 3.X, Python 3.X is required as runtime environment. we recommemd user to install [anaconda3](https://www.anaconda.com/) which is well-known as a scientific Python.
 
 ```shell
-git clone https://github.com/idrblab/RNAInterpret
-cd RNAInterpret
+git clone https://github.com/idrblab/intrna
+cd intrna
 # virtual environment are recommended
-conda create -n RNAInterpret python=3.8
+conda create -n intrna python=3.8
 pip install -r requirements.txt
 ```
 # Basic usage
-Users can use RNAInterpret to **(1) encode RNA image** and **(2) classification of RNA**.
+Users can use IntRNA to **(1) encode RNA image** and **(2) classification of RNA**.
 ```shell
-python RNAInterpret.py --help
+python IntRNA.py --help
 ```
 ```
-usage: RNAInterpret.py [-h] [-i INPUTFASTA] [-o OUTPUTPATH] [-m {1,2,3}]
+usage: IntRNA.py [-h] [-i INPUTFASTA] [-o OUTPUTPATH] [-m {1,2,3}]
 
 Your program description here
 
@@ -44,10 +44,10 @@ optional arguments:
 
 
 # Study demo
-## RNAInterpret
+## IntRNA
 Users can run tasks like following shell script.
 ```shell
-python RNAInterpret.py -i ./demo/sense_intronic_sample.fa \
+python IntRNA.py -i ./demo/sense_intronic_sample.fa \
     -o ./demo/output_sense_intronic_sample \
     -m 1 
 ```
