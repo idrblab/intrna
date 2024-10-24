@@ -1,6 +1,6 @@
 [![AUR](https://img.shields.io/badge/license-GPL%203.0-blue.svg)]
 [![Python 3.x](https://img.shields.io/badge/Python-3.X-green.svg)](https://www.python.org/)
-[![IntRNA](fig/RNAInterpret-Title.png)](http://idrblab.org/rnamap/)
+[![IntRNA](fig/RNAInterpret-Title.png)](http://idrblab.org/intrna/)
 IntRNA first introduced a dual-path classification model to enable a systematic interpretation of the RNA universe. **(1) providing a dual-path classification model was proposed to enable systematic interpretation of the RNA universe, (2) a novel encoding strategy was introduced by incorporating the most comprehensive set of features**. Therefore, users can get the encoding results and the classification of RNA from IntRNA.
 
 # Contents
