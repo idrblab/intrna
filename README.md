@@ -53,4 +53,4 @@ python IntRNA.py -i ./demo/sense_intronic_sample.fa \
 ```
 
 # Question && issue
-If there are any usage problems, welcome to submit issues to this repository or contact author with email lfwyx@zju.edu.cn.
+If there are any usage problems, welcome to submit issues to this repository or contact author with email yunxiawang2022@gmail.com or lfwyx@zju.edu.cn.
